@@ -23,6 +23,7 @@
         <module>library</module>
         <module>employee</module>
         <module>liskov</module>
+        <module>sonarqube</module>
     </modules>
 
     <build>
