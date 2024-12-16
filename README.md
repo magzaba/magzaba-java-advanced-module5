@@ -27,3 +27,9 @@ The provided code includes intentional issues and vulnerabilities:
    3. Code Smells:
         - duplicateCodeExample: Contains duplicated code from unsafeMethod.
         - complexMethod: An example of a long and complex method that does simple tasks in an overly complicated way.
+
+All of the above issues were identified and reported by the SonarQube (screenshots below)
+
+ ![ SonarQube report](sonarqube/src/main/resources/report.png)
+ ![ SonarQube found issues](sonarqube/src/main/resources/issues.png)
+ ![ SonarQube sequrity hotspots identified](sonarqube/src/main/resources/sequrity_hotspots.png)
