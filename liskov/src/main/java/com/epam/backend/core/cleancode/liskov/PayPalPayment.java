@@ -1,4 +1,4 @@
-package com.epam.backend.core.liskov;
+package com.epam.backend.core.cleancode.liskov;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

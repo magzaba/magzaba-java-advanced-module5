@@ -1,4 +1,4 @@
-package com.epam.backend.core.liskov;
+package com.epam.backend.core.cleancode.liskov;
 
 public abstract class PaymentMethod {
     // Template method

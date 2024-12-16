@@ -1,5 +1,9 @@
-package com.epam.backend.core.liskov;
+package com.epam.backend.core.cleancode.liskov;
 
+import com.epam.backend.core.cleancode.liskov.CreditCardPayment;
+import com.epam.backend.core.cleancode.liskov.PayPalPayment;
+import com.epam.backend.core.cleancode.liskov.PaymentMethod;
+import com.epam.backend.core.cleancode.liskov.PaymentProcessor;
 import org.junit.jupiter.api.Test;
 
 import static org.mockito.ArgumentMatchers.anyDouble;
